@@ -1,0 +1,2 @@
+# Hospital-Management-Manage-patient-records-appointments-and-billing.
+This project would also be useful in learning different programming concepts, including conditional statements, loops, functions, and data structures. This project would enhance learning in terms of developing problem-solving skills and logical thinking,would be useful in learning how a particular problem could be solved using a computer program. 
